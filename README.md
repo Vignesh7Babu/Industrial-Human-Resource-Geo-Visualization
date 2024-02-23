@@ -1,14 +1,14 @@
 # Industrial-Human-Resource-Geo-Visualization
 
 ## Overview
-- [Technologies] Technologies
-- [Domain] Domain
-- [Problem Statement] Problem Statement
-- [Approach] Approach
-- [Technologies Used] Technologies Used
-- [Project Structure] Project Structure
-- [Usage] Usage
-- [Contributing] Contributing
+- [Technologies](#Technologies)
+- [Domain](#Domain)
+- [Problem Statement](#Problem-Statement)
+- [Approach](#Approach)
+- [Technologies Used](#Technologies-Used)
+- [Project Structure](#Project-Structure)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
 
 ## Technologies
 - Exploratory Data Analysis (EDA)
